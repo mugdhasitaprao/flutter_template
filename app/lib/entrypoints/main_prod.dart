@@ -8,7 +8,7 @@ void main() {
   FlavorConfig.initialize(
     flavor: Flavor.prod,
     values: const FlavorValues(
-      apiBaseUrl: "https://api.openweathermap.org/",
+      apiBaseUrl: "https://v2.jokeapi.dev/joke/",
       secrets: AppSecrets.appSecretsProd,
     ),
   );

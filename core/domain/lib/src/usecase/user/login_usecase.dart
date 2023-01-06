@@ -1,6 +1,5 @@
 import 'package:dartz/dartz.dart';
 import 'package:shared/shared.dart';
-
 import '../../repository/user_repository.dart';
 import '../base/base_usecase.dart';
 import '../base/params.dart';

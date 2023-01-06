@@ -72,7 +72,7 @@ abstract class CoreBasePageState<VM, T extends StatefulWidget> extends State<T>
 
   /// Building a appbar of screen
   Color scaffoldBackgroundColor() {
-    return Colors.grey;
+    return Colors.white;
   }
 
   /// Building a drawer of screen
